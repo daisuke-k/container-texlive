@@ -2,5 +2,5 @@
 This repository manage container image for Texlive.
 
 ```
-docker pull ghcr.io/hiroyaonoe/texlive
+docker pull ghcr.io/daisuke-k/texlive
 ```
